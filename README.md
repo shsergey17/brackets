@@ -1,8 +1,10 @@
 # brackets
 
 usage:
+
 var_dump(Brackets::check("()"));
 
 
-tests:
+test:
+
 vendor/bin/phpunit
